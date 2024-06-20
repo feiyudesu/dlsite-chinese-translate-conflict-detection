@@ -1,0 +1,1 @@
+# dlsite-chinese-translate-conflict-detection
